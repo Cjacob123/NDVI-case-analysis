@@ -3,7 +3,7 @@ NDVI stands for Normalized Difference Vegetation Index. It is a widely used metr
 
 The formula for calculating NDVI is:
 
- NDVI = (NIR - Red)}/(NIR + Red)
+ NDVI = (NIR - Red)/(NIR + Red)
 
 where:
 - NIR is the reflectance in the near-infrared spectrum
