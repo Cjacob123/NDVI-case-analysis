@@ -1,0 +1,18 @@
+Initial Analysis
+1.   Quebec has the top 5 NDVI values in both large and small population areas throughout the years
+2.   Alberta and Manitoba have shared the positions for lowest NDVI over the years
+Trend Analysis
+*   Small population areas in Quebec shown to have healthier and denser vegetation throughout the years.
+*   Small population areas in Ontario have similar but slightly lower density of vegetation than Quebec, overtaking them for some period of time
+*   Manitoba and Alberta have the lowest density of vegetation throughout the years
+*   overall from 2000 to 2023 the vegetation has seen a decline in all provinces
+Comparison between small and large population areas
+*   Small population areas tend to have healthier and denser vegetation. 
+*   This is because in urban areas due to higher population density, there is more vegetation area cleared for construction of roads, houses and other buildings. 
+Comparison analysis over the years
+1.   The trend lines for small and large population throughout the years intersect between 0.55 and 0.65 ndvi most of the time
+2.   In the year 2018 there was a high number of small population areas that had just over 0.45 NDVI
+3.   In the year 2023 a high number of large population areas had over 0.65 NDVI
+TIME SERIES ANALYSIS FOR ONTARIO
+NDVI is predicted to gradually decrease while spiking in certain years in small population areas in Ontario by 2034 to 2036. All time low of 0.60
+NDVI is predicted to gradually decrease while spiking in certain years in large population areas in Ontario by 2034 to 2036. All time low of 0.45
